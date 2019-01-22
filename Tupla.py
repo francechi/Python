@@ -8,8 +8,8 @@ print(midiccionario)
 
 # Para hacer un diccionario midiccionario={"":"",} o midiccionario={"":número,}
 # Se agregan datos de la siguiente forma midiccionario["keys"]="values"
-# - y se modifican de la misma manera o simplemente borras y remplazas
-# - o mejor aún escribes el código correcto desde el principio
+# -y se modifican de la misma manera o simplemente borras y remplazas
+# -o mejor aún escribes el código correcto desde el principio
 # midiccionario={"Alemania":"Berlin","Francia":"Paris", "Reino Unido":"Londres", "España":"Madrid"
 #             ----------- "Italia"="Roma"} ------------
 
